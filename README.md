@@ -9,3 +9,4 @@ A description of cocoapods-replace.
 ## Usage
 
     $ pod spec replace POD_NAME
+# cocoapods-replace

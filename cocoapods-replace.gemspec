@@ -6,11 +6,11 @@ require 'cocoapods-replace/gem_version.rb'
 Gem::Specification.new do |spec|
   spec.name          = 'cocoapods-replace'
   spec.version       = CocoapodsReplace::VERSION
-  spec.authors       = ['jinqiucheng']
-  spec.email         = ['jinqiucheng@foryou56.com']
+  spec.authors       = ['Dreamtracer']
+  spec.email         = ['jinqiucheng1006@live.cn']
   spec.description   = %q{A short description of cocoapods-replace.}
   spec.summary       = %q{A longer description of cocoapods-replace.}
-  spec.homepage      = 'https://github.com/EXAMPLE/cocoapods-replace'
+  spec.homepage      = 'https://github.com/NicolasKim/cocoapods-replace.git'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
